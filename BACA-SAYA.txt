@@ -1,0 +1,11 @@
+WebGIS Lahan Baku Sawah Parsial (2025) - Dinas Tanaman Pangan
+
+Cara membuka:
+1. Ekstrak (Extract All) seluruh isi ZIP ini ke satu folder.
+2. Buka file index.html dengan Chrome, Edge, atau Firefox.
+3. Jangan memindahkan index.html tanpa folder "data" di sampingnya.
+
+Peta dasar Google memerlukan internet. Batas desa/kecamatan dan semua layer
+lahan baku sawah tetap tampil tanpa internet.
+
+Untuk dipasang di server/hosting: unggah seluruh folder apa adanya.
